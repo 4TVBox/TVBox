@@ -1,0 +1,55 @@
+{
+  "spider": "https://github.com/4TVBox/TVBox/raw/main/custom_spider.jar;md5;72e81d4bc7b9066aeb031998746f0e52",
+  "wallpaper": "https://深色壁纸.饭.eu.org/",
+  "sites": [
+    {
+      "key": "haiwaikan",
+      "name": "海外看",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "playUrl": "json:https://4tvbox.serv00.net/hwk.php?url=",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+	"国产剧",
+	"港剧",
+	"欧美剧",
+	"台剧",
+	"韩剧",
+        "日剧",
+	"泰剧",
+        "国产综艺",
+        "欧美综艺",
+	"韩国综艺",
+	"日本综艺",
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "动画电影",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+	"同性片",
+        "经典片"
+      ]
+    }
+  ],
+  "lives": [
+    {
+      "name": "范明明IPv6",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+    }
+  ]
+}
