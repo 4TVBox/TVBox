@@ -1,10 +1,10 @@
 {
-  "spider": "https://github.com/4TVBox/TVBox/raw/main/custom_spider.jar;md5;72e81d4bc7b9066aeb031998746f0e52",
+  "spider": "https://github.com/4TVBox/TVBox/raw/main/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf",
   "wallpaper": "https://深色壁纸.饭.eu.org/",
   "sites": [
     {
-      "key": "haiwaikan",
-      "name": "海外看",
+      "key": "tvbox",
+      "name": "TVBox",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "playUrl": "json:https://4tvbox.serv00.net/hwk.php?url=",
