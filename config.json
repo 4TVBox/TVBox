@@ -6,7 +6,7 @@
       "key": "tvbox",
       "name": "TVBox",
       "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "api": "https://heimuer.tv/api.php/provide/vod",
       "playUrl": "json:https://4tvbox.serv00.net/hwk.php?url=",
       "searchable": 1,
       "changeable": 1,
